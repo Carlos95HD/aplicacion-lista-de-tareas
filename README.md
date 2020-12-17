@@ -1,14 +1,14 @@
-# Webpack Starter
+# Lista de Tareas
 
-Este es el Proyecto inical para crear aplicaciones utilizando webpack.
+Practica JS en una aplicación de lista de tareas.
 
 ### Notas:
-Recuerden reconstruir los modulos de Node
+reconstruir los modulos de Node
 ```
 npm install
 ```
 
-y para construir el build, recuerden:
+y para construir el build:
 ```
 npm run build
 ```
